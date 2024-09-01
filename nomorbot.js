@@ -1,1 +1,1 @@
-globaldatabasenomor = ['6282121215148']
+globaldatabasenomor = '6282121215148'
